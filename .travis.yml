@@ -5,5 +5,5 @@ branches:
   only:
   - master
 script:
-  - bin/cibuild
+  - bin/cibuild.sh
 sudo: false
