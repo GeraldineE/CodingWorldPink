@@ -203,7 +203,8 @@ table {
   line-height: 1.5;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left; }
+  float: left;
+  color: #9b59b6; }
   @media screen and (max-width: 600px) {
     .site-title {
       padding-right: 45px; } }
